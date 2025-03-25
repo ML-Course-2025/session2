@@ -41,19 +41,7 @@ Your task is to review [the following article](https://francescopochetti.com/byt
 - Additionally, a **Colab notebook** is available: [Open in Colab](https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing)  
 
 
-----
-### (Optional) Part 4:
 
-For those trying to study BPE, [here is an exercise](https://github.com/karpathy/minbpe/blob/master/exercise.md) on how you can build your own minbpe step by step. 
-
-
----
-
-## Further Exploration: 
-
-- [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
-- [Tiktokenizer](https://tiktokenizer.vercel.app/)
-- [Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5)
 
 
 <!-- 

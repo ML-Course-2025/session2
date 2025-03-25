@@ -45,8 +45,7 @@
   - Data Cleaning and Preprocessing
   - Exploratory Data Analysis (EDA)
   - Feature Engineering
-  - Data Visualization Techniques
-  - [Choosing Plot Types](https://www.kaggle.com/code/alexisbcook/choosing-plot-types-and-custom-styles) 
+  - Data Visualization Techniques 
 - [Summary: Key Points and Takeaways](./material/part1.md)
 - [Activity 1: Practical Exercises on Data Cleaning and Preprocessing](./material/activity1.md)
 
@@ -61,6 +60,14 @@
   - Challenges in Data Collection and Curation for LLMs
 - [Summary: Key Concepts from Part 2](./material/part2.md)
 - [Activity 2: Practical Exploration of LLM Dataset Preparation](./material/activity2.md)
+
+
+----
+> [!NOTE]  
+> For those trying to study BPE, [here is an exercise](https://github.com/karpathy/minbpe/blob/master/exercise.md) on how you can build your own minbpe step by step. 
+
+
+
 
 
 <!-- 

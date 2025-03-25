@@ -154,16 +154,17 @@
 ---
 ## Further Exploration: 
 
-- Pandas
-  - [Video ~50min: Pandas—Pandas for Data Science](https://www.youtube.com/watch?v=Yp3fccNNfjQ)
-  - [Crash course](https://www.kaggle.com/learn/pandas)
-- [Data Visualization](https://www.kaggle.com/learn/data-visualization)
-- [How to Handle Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)
+- [Pandas: Crash course](https://www.kaggle.com/learn/pandas)
+- [Video ~50min: Pandas for Data Science](https://www.youtube.com/watch?v=Yp3fccNNfjQ)
+- [Data Visualization: Crash course](https://www.kaggle.com/learn/data-visualization)
 - [Video ~50min: NumPy for Data Science](https://www.youtube.com/watch?v=EmA_TuC2Vdk)
 - Video Course: Intro to Machine Learning with Python
   - [Part 1: Welcome and Project Setup](https://youtu.be/rdaG53khzv0)
   - [Part 2: Exploratory Data Analysis](https://youtu.be/6BagRiSY1ds)
   - [Part 3: Train Test Split and Baseline Modeling](https://youtu.be/MufPx3L7nXM)
+- Tips
+  - [Choosing Plot Types](https://www.kaggle.com/code/alexisbcook/choosing-plot-types-and-custom-styles)
+  - [How to Handle Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)
 
 
 
