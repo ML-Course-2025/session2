@@ -1,5 +1,8 @@
 # Activity 1
 
+> [!IMPORTANT]  
+> During the activity, you are encouraged to question every line of code. Feel free to use your preferred LLM to assist with code-related inquiries.
+
 
 ----
 ## Part 1: Data Analysis of the Titanic Dataset with Python
@@ -13,7 +16,7 @@ In this tutorial, we will analyze the Titanic dataset using Python to uncover in
 
 ### Prerequisites
 
-Make sure you have Python installed on your system along with the following libraries: 
+Make sure you install the following libraries: 
 - `pandas` (for data manipulation),
 - `seaborn` and `matplotlib` (for data visualization).
 
@@ -153,7 +156,7 @@ The Iris dataset is one of the most well-known datasets in machine learning. It 
 
 ### Prerequisites
 
-Ensure you have Python installed on your system along with the following libraries:
+Ensure you install the following libraries:
 - `pandas` for data manipulation,
 - `seaborn` and `matplotlib` for data visualization.
 
@@ -228,6 +231,16 @@ plt.show()
 **What to Observe**: Note how petal length varies significantly between species, with minimal overlap. This makes it an important feature for classification.
 
 
+
+### Step 4: Insights and Findings
+
+Based on our analysis, here are some key observations:
+1. **Feature Importance**: Features like petal length and petal width are highly discriminative for distinguishing species.
+2. **Species Clustering**: *Setosa* forms a distinct cluster, while *versicolor* and *virginica* show some overlap.
+
+
+<!-- 
+
 ### Step 4: Building a Basic Machine Learning Model
 
 Let's build a simple model to classify iris species based on their features.
@@ -261,13 +274,6 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"Model Accuracy: {accuracy:.2f}")
 ```
 **What to Observe**: The model should achieve high accuracy (~95%+), given the simplicity and separability of the Iris dataset.
-
-
-### Step 5: Insights and Findings
-
-Based on our analysis, here are some key observations:
-1. **Feature Importance**: Features like petal length and petal width are highly discriminative for distinguishing species.
-2. **Species Clustering**: *Setosa* forms a distinct cluster, while *versicolor* and *virginica* show some overlap.
-3. **Model Performance**: A simple Random Forest Classifier performs well on this dataset, highlighting its suitability for beginner projects.
+-->
 
 

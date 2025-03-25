@@ -28,9 +28,7 @@
   - **Outliers**: Extreme values that distort the model.  
   - **Imbalanced data**: When one category dominates the dataset (e.g., fraud detection datasets with 99% non-fraud cases).  
 
-- **Comparison: Classical ML vs. LLMs**:  
-  - Classical ML: **Requires structured, labeled data** (e.g., a table with customer attributes and a target variable for churn prediction).  
-  - LLMs: **Trained on vast, unstructured datasets** (e.g., text scraped from the web) and require advanced preprocessing.  
+ 
 
 ---
 
@@ -152,12 +150,25 @@
   - Cleaning, analyzing, and transforming data **is essential before training ML models**.  
   - **Feature engineering and scaling improve accuracy** and efficiency.  
 
-- **Next Steps**:  
-  - In the next lecture, we will explore **datasets for LLMs**, which present unique challenges due to their size and unstructured nature.  
-  - The same **data preprocessing principles** will apply but with additional steps like **text tokenization and embedding generation**.  
+
+---
+## Further Exploration: 
+
+- Pandas
+  - [Video ~50min: Pandas—Pandas for Data Science](https://www.youtube.com/watch?v=Yp3fccNNfjQ)
+  - [Crash course](https://www.kaggle.com/learn/pandas)
+- [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- [How to Handle Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)
+- [Video ~50min: NumPy for Data Science](https://www.youtube.com/watch?v=EmA_TuC2Vdk)
+- Video Course: Intro to Machine Learning with Python
+  - [Part 1: Welcome and Project Setup](https://youtu.be/rdaG53khzv0)
+  - [Part 2: Exploratory Data Analysis](https://youtu.be/6BagRiSY1ds)
+  - [Part 3: Train Test Split and Baseline Modeling](https://youtu.be/MufPx3L7nXM)
 
 
 
+
+<!-- 
 ---
 ## Visualization: [Choosing Plot Types](https://www.kaggle.com/code/alexisbcook/choosing-plot-types-and-custom-styles) 
 
@@ -173,19 +184,5 @@
   - sns.jointplot - This command is useful for simultaneously displaying a 2D KDE plot with the corresponding KDE plots for each individual variable.
 
 
-<img src="./visualization.png" width="50%">
-
-
----
-## Further Exploration: 
-
-- Pandas
-  - [Video ~50min: Pandas—Pandas for Data Science](https://www.youtube.com/watch?v=Yp3fccNNfjQ)
-  - [Crash course](https://www.kaggle.com/learn/pandas)
-- [Data Visualization](https://www.kaggle.com/learn/data-visualization)
-- [How to Handle Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)
-- [Video ~50min: NumPy for Data Science](https://www.youtube.com/watch?v=EmA_TuC2Vdk)
-- Video Course: Intro to Machine Learning with Python
-  - [Part 1: Welcome and Project Setup](https://youtu.be/rdaG53khzv0)
-  - [Part 2: Exploratory Data Analysis](https://youtu.be/6BagRiSY1ds)
-  - [Part 3: Train Test Split and Baseline Modeling](https://youtu.be/MufPx3L7nXM)
+<img src="./visualization.png" width="50%"> 
+-->

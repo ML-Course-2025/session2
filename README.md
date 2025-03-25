@@ -11,7 +11,6 @@
 ---
 ### Topics
 
-- ML systems vs Traditional programming
 - Datasets for Classical Machine Learning
 - Datasets for Large Language Models (LLMs)
 
@@ -29,8 +28,8 @@
 #### Part 0: Introduction to Data and Datasets for ML and LLMs
 
 - Open source LLMs?
-  - [Sky-T1](https://github.com/NovaSky-AI/SkyThought), 
-  - [Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1), 
+  - [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
+  - [Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
   - [OLMo 2](https://allenai.org/blog/olmo2-32B)
 - ML systems vs Traditional programming
   - Importance of Data
@@ -47,6 +46,7 @@
   - Exploratory Data Analysis (EDA)
   - Feature Engineering
   - Data Visualization Techniques
+  - [Choosing Plot Types](https://www.kaggle.com/code/alexisbcook/choosing-plot-types-and-custom-styles) 
 - [Summary: Key Points and Takeaways](./material/part1.md)
 - [Activity 1: Practical Exercises on Data Cleaning and Preprocessing](./material/activity1.md)
 

@@ -128,10 +128,6 @@
   - Ethical and legal considerations are crucial in **curating responsible AI models**.  
   - **Data quality is just as important as model size in determining performance**.  
 
-- **Next Steps**:  
-  - Now that we understand dataset preparation for LLMs, we will explore **model training techniques and fine-tuning methods next week**.  
-
-
 
 ---
 ## Further Reading: 
@@ -145,3 +141,13 @@ For those looking to deepen their understanding of LLM datasets, preprocessing, 
   - Chapter 2: Tokens and Embeddings  
 - **AI Engineering** by Chip Huyen:  
   - Chapter 8: Dataset Engineering  
+
+
+
+---
+
+## Further Exploration: 
+
+- [Byte pair encoding](https://en.wikipedia.org/wiki/Byte_pair_encoding)
+- [Tiktokenizer](https://tiktokenizer.vercel.app/)
+- [Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/chapter6/5)
