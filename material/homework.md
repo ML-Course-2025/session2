@@ -16,8 +16,7 @@
    - Pay close attention to the explanation of the **concepts and code walkthroughs**.  
 
 2. **Source Code**:  
-   - Download the source code from the following repository:  
-     [EDA Project Repository](https://github.com/codebasics/project-da-online-retail-pandas).  
+   - Download the source code from [the following repository](https://github.com/codebasics/project-da-online-retail-pandas).  
 
 3. **Task**:  
    - Use **Google Colab** to run the source code provided in the repository.  

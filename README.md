@@ -1,11 +1,11 @@
 # Session 2: Datasets
 
-### Announcements
 
-- [How to share Your Colab Notebook](./material/colab.md)
-- [Zoom Recordings](https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EuSPkRmWcYpGsXdjFhE2k80BaZBR-EeccL7AHlnTQya-6w)
-- [The EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
-- More on the project later
+> [!NOTE]  
+> - [How to share Your Colab Notebook](./material/colab.md)
+> - [Zoom Recordings](https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EuSPkRmWcYpGsXdjFhE2k80BaZBR-EeccL7AHlnTQya-6w)
+> - [The EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+> - More on the project later.
 
 <!-- Please [share your Colab notebooks with the following email address](./material/colab.md):  *ml.course.2025* *[a]* *gmail* -->
 ---
@@ -69,8 +69,8 @@
 
 
 ----
-> [!NOTE]  
-> For those trying to study BPE, [here is an exercise](https://github.com/karpathy/minbpe/blob/master/exercise.md) on how you can build your own minbpe step by step. 
+> [!TIP]  
+> For those trying to study BPE, [here is an exercise](https://github.com/karpathy/minbpe/blob/master/exercise.md) on how you can build your own your own GPT-4 tokenizer. There is also a sample sample solution [here](https://github.com/karpathy/minbpe).
 
 
 
