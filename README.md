@@ -2,12 +2,12 @@
 
 ### Announcements
 
-- [Homework](./material/homework.md)
-- Please [share your Colab notebooks with the following email address](./material/colab.md):  *ml.course.2025* *[a]* *gmail*
+- [How to share Your Colab Notebook](./material/colab.md)
 - [Zoom Recordings](https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EuSPkRmWcYpGsXdjFhE2k80BaZBR-EeccL7AHlnTQya-6w)
 - [The EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 - More on the project later
 
+<!-- Please [share your Colab notebooks with the following email address](./material/colab.md):  *ml.course.2025* *[a]* *gmail* -->
 ---
 ### Topics
 
@@ -22,6 +22,12 @@
 - `Group Activity + Break` (50min)  
 - Mini lecture
 - Group Activity
+
+---
+
+> [!IMPORTANT]  
+> [Homework for this week](./material/homework.md)
+
 
 -----
 
